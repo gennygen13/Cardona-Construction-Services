@@ -1,0 +1,223 @@
+ <!-- Nav Bar Start -->
+            <div class="nav-bar">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                        <a href="#" class="navbar-brand">MENU</a>
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                            <div class="navbar-nav mr-auto">
+                                <a href="index.html" class="nav-item nav-link">Home</a>
+                                <a href="about.html" class="nav-item nav-link">About</a>
+                                <a href="service.html" class="nav-item nav-link">Service</a>
+                                <a href="portfolio.html" class="nav-item nav-link active">Project</a>
+                                
+                                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                            </div>
+                           
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- Nav Bar End -->
+
+
+            
+            <!-- Portfolio Start -->
+<div class="portfolio">
+    <div class="container main-content">
+        <div class="row">
+            <div class="col-12">
+                <ul id="portfolio-filter">
+                    <li data-filter=".first" class="filter-active">Completed</li>
+                    <li data-filter=".second">Ongoing</li>
+                </ul>
+            </div>
+        </div>
+        <!--1st project -->
+        <div class="row portfolio-container">
+            <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s" style="margin: 10px 0 0 20px;">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="img/1st project/1st.jpg" alt="Image 1" class="portfolio-image">
+                        <img src="img/1st project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                        <div class="arrow-container">
+                            <span class="arrow arrow-left">&lt;</span>
+                            <span class="arrow arrow-right">&gt;</span>
+                        </div>
+                    </div>
+                    <div class="portfolio-text">
+                        <h3>Gate</h3>
+                    </div>
+                </div>
+            </div>
+                   <!--end 1st project -->
+                           
+           <!-- 2nd project -->
+                <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s"style="margin: 20px 0 0 30px;">
+                    <div class="portfolio-warp">
+                        <div class="portfolio-img">
+                            <img src="img/2nd project/1st.jpg" alt="Image 1" class="portfolio-image">
+                            <img src="img/2nd project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                            <img src="img/2nd project/3rd.jpg" alt="Image 3" class="portfolio-image">
+                            <div class="arrow-container">
+                                <span class="arrow arrow-left">&lt;</span>
+                                <span class="arrow arrow-right">&gt;</span>
+                            </div>
+                        </div>
+                        <div class="portfolio-text">
+                            <h3>Two Storey House</h3>
+                        </div>
+                    </div>
+                </div>
+            <!-- end 2nd project -->
+
+             <!-- 3rd project -->
+             <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s" style="margin: 20px 0 0 30px;">
+                <div class="portfolio-warp">
+                    <div class="portfolio-img">
+                        <img src="img/3rd project/1st.jpg" alt="Image 1" class="portfolio-image">
+                        <img src="img/3rd project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                        <div class="arrow-container">
+                            <span class="arrow arrow-left">&lt;</span>
+                            <span class="arrow arrow-right">&gt;</span>
+                        </div>
+                    </div>
+                    <div class="portfolio-text">
+                        <h3>Gate</h3>
+                    </div>
+                </div>
+            </div>
+        <!-- end 3rd project -->
+
+          <!-- 8th project -->
+          <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s" style="margin: 20px 0 0 30px;">
+            <div class="portfolio-warp">
+                <div class="portfolio-img">
+                    <img src="img/8th project/1st.jpg" alt="Image 1" class="portfolio-image">
+                    <img src="img/8th project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                    <div class="arrow-container">
+                        <span class="arrow arrow-left">&lt;</span>
+                        <span class="arrow arrow-right">&gt;</span>
+                    </div>
+                </div>
+                <div class="portfolio-text">
+                    <h3>water proofing & repair of roof</h3>
+                </div>
+            </div>
+        </div>
+    <!-- end 8th slideshow -->
+
+          <!-- 9th project -->
+          <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s" style="margin: 20px 0 0 30px; ">
+            <div class="portfolio-warp">
+                <div class="portfolio-img">
+                    <img src="img/9th project/1st.jpg" alt="Image 1" class="portfolio-image">
+                    <img src="img/9th project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                    <img src="img/9th project/3rd.jpg" alt="Image 2" class="portfolio-image">
+                    <img src="img/9th project/4th.jpg" alt="Image 2" class="portfolio-image">
+                    <div class="arrow-container">
+                        <span class="arrow arrow-left">&lt;</span>
+                        <span class="arrow arrow-right">&gt;</span>
+                    </div>
+                </div>
+                <div class="portfolio-text">
+                    <h3>Apartment</h3>
+                </div>
+            </div>
+        </div>
+    <!-- end 9th slideshow -->
+         
+        <!-- 4th project -->
+        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.3s" style="margin: 20px 0 0 30px;">
+            <div class="portfolio-warp">
+                <div class="portfolio-img">
+                    <img src="img/4th project/1st.jpg" alt="Image 1" class="portfolio-image">
+                    <img src="img/4th project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                    <div class="arrow-container">
+                        <span class="arrow arrow-left">&lt;</span>
+                        <span class="arrow arrow-right">&gt;</span>
+                    </div>
+                </div>
+                <div class="portfolio-text">
+                    <h3>Two Storey House</h3>
+                </div>
+            </div>
+        </div>
+        <!-- end 4th Project -->
+
+        <!-- 5th project -->
+        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.3s" style="margin: 20px 0 0 30px;">
+            <div class="portfolio-warp">
+                <div class="portfolio-img">
+                    <img src="img/5th project/1st.jpg" alt="Image 1" class="portfolio-image">
+                    <img src="img/5th project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                    <div class="arrow-container">
+                        <span class="arrow arrow-left">&lt;</span>
+                        <span class="arrow arrow-right">&gt;</span>
+                    </div>
+                </div>
+                <div class="portfolio-text">
+                    <h3>Finishing, Flexibond & paint </h3>
+                </div>
+            </div>
+        </div>
+        <!-- end 5th Project -->
+
+        <!-- 7th project -->
+        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.3s"style="margin: 20px 0 0 30px;" >
+            <div class="portfolio-warp">
+                <div class="portfolio-img">
+                    <img src="img/7th project/1st.jpg" alt="Image 1" class="portfolio-image">
+                    <img src="img/7th project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                    <img src="img/7th project/3rd.jpg" alt="Image 2" class="portfolio-image">
+                    <div class="arrow-container">
+                        <span class="arrow arrow-left">&lt;</span>
+                        <span class="arrow arrow-right">&gt;</span>
+                    </div>
+                </div>
+                <div class="portfolio-text">
+                    <h3>House</h3>
+                </div>
+            </div>
+        </div>
+        <!-- end 7th Project -->
+
+        <!-- 10th project -->
+        <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item second wow fadeInUp" data-wow-delay="0.3s" style="margin: 20px 0 0 30px;" >
+            <div class="portfolio-warp">
+                <div class="portfolio-img">
+                    <img src="img/10th project/1st.jpg" alt="Image 1" class="portfolio-image">
+                    <img src="img/10th project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                    <img src="img/10th project/3rd.jpg" alt="Image 2" class="portfolio-image">
+                    <div class="arrow-container">
+                        <span class="arrow arrow-left">&lt;</span>
+                        <span class="arrow arrow-right">&gt;</span>
+                    </div>
+                </div>
+                <div class="portfolio-text">
+                    <h3>Kane Packaging Inc.</h3>
+                </div>
+            </div>
+        </div>
+        <!-- end 10th Project -->
+
+         <!-- 6th project -->
+         <div class="col-lg-4 col-md-6 col-sm-12 portfolio-item first wow fadeInUp" data-wow-delay="0.1s"style="margin: 20px 0 0 30px;">
+            <div class="portfolio-warp">
+                <div class="portfolio-img">
+                    <img src="img/6th project/1st.jpg" alt="Image 1" class="portfolio-image">
+                    <img src="img/6th project/2nd.jpg" alt="Image 2" class="portfolio-image">
+                    <div class="arrow-container">
+                        <span class="arrow arrow-left">&lt;</span>
+                        <span class="arrow arrow-right">&gt;</span>
+                    </div>
+                </div>
+                <div class="portfolio-text" style="text-align: center;">
+                    <h3>House Renovation</h3>
+                </div>
+            </div>
+        </div>
+         <!-- end 6th project -->
